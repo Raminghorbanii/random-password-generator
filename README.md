@@ -1,4 +1,4 @@
-# Hi / Random Password Generator
+# Random Password Generator
 
 The Random Password Generator is a simple yet powerful Python application that allows users to generate secure and customizable passwords. It features a user-friendly graphical interface and provides options for including uppercase letters, numbers, special characters, and spaces in the passwords. Additionally, the application includes a password strength meter that evaluates and displays the strength of the generated password.
 
